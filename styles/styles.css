@@ -52,6 +52,14 @@ p {
       font-size: 0.8em;
       max-width: 270px;
    }
+
+   footer {
+      font-size: 16px;
+   }
+
+   .mods {
+      font-size: 18px;
+   }
 }
 
 @media (max-width: 992px) {
@@ -67,6 +75,13 @@ p {
       font-size: 0.7em;
       max-width: 250px;
    }
+   footer {
+      font-size: 15px;
+   }
+
+   .mods {
+      font-size: 17px;
+   }
 }
 
 @media (max-width: 768px) {
@@ -75,12 +90,18 @@ p {
    }
 
    .sort {
-      font-size: 1.3rem;
+      font-size: 1.1rem;
    }
 
    select {
       font-size: 0.6em;
       max-width: 225px;
+   }
+   footer {
+      font-size: 14px;
+   }
+   .mods {
+      font-size: 16px;
    }
 }
 
@@ -90,7 +111,7 @@ p {
    }
 
    .sort {
-      font-size: 1.3rem;
+      font-size: 1rem;
    }
 
    .sort {
@@ -100,6 +121,13 @@ p {
    select {
       font-size: 0.5rem;
       max-width: 200px;
+   }
+   footer {
+      font-size: 13px;
+   }
+
+   .mods {
+      font-size: 15px;
    }
 }
 
